@@ -1,0 +1,17 @@
+{
+  "name": "2048",
+  "displayName": "2048",
+  "expo": {
+    "name": "2048",
+    "slug": "2048",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

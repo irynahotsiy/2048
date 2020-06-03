@@ -1,0 +1,16 @@
+export const BOXBACKGROUND = {
+  ZERO: "#b9b6b6",
+  TWO: "#f7efe5",
+  FOUR: "#f5d9b5",
+  EIGHT: "#ecb071",
+  SIXTEEN: "#f18310",
+  THIRTYTWO: "#f36d4e",
+  SIXTYFOUR: "#f73e13",
+  HUNDRED: "#f3d878",
+  TWOHUNDRED: "#f7c30c",
+  FIVEHUNDRED: "#bcd205",
+  THOUSAND: "#6ad806",
+  TWOTHOUSAND: "#4a9209",
+  FOURTHOUSAND: "#334424",
+  EIGHTTHOUSAND: "#171915",
+};
