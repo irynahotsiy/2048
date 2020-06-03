@@ -12,6 +12,8 @@
     ],
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "Simple 2048 Game in react-native",
+    "githubUrl": "https://github.com/irynahotsiy/2048"
   }
 }
