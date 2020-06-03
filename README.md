@@ -18,10 +18,8 @@ To try the App you can use [Expo Client](https://expo.io/tools#client).
 
 ### Scan to open
 
+![QR-code](/photos/QrCodeExpo.png)
+
 ## Notes
 
 Tested on Android only.
-# 2048
-# 2048
-# 2048
-# 2048
